@@ -1,0 +1,5 @@
+[book]
+authors = ["zyspage@gmail.com"]
+language = "zh-cn"
+multilingual = false
+src = "src"
